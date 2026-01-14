@@ -1,0 +1,251 @@
+Accident_ID,Date,Time,City,Road_Type,Accident_Severity,Vehicle_Type,Weather,Casualties
+A0001,2023-04-13,19:28,Multan,Highway,Serious,Car,Clear,2
+A0002,2023-08-03,10:10,Faisalabad,Highway,Serious,Bike,Rainy,4
+A0003,2023-09-15,23:43,Quetta,Urban Road,Minor,Bike,Clear,3
+A0004,2023-11-10,21:43,Lahore,Highway,Minor,Truck,Clear,3
+A0005,2023-07-07,15:14,Quetta,Urban Road,Serious,Truck,Clear,3
+A0006,2023-11-16,02:36,Islamabad,Highway,Minor,Truck,Clear,0
+A0007,2023-11-12,13:49,Karachi,Highway,Minor,Bus,Rainy,6
+A0008,2023-09-21,14:34,Quetta,Highway,Minor,Bike,Rainy,5
+A0009,2023-02-23,09:03,Quetta,Highway,Fatal,Bus,Clear,1
+A0010,2023-09-27,15:14,Faisalabad,Urban Road,Minor,Car,Fog,4
+A0011,2023-07-27,12:17,Multan,Highway,Serious,Car,Clear,3
+A0012,2023-02-10,14:44,Lahore,Highway,Fatal,Bike,Clear,7
+A0013,2023-03-04,10:50,Lahore,Urban Road,Serious,Car,Rainy,1
+A0014,2023-08-19,08:27,Multan,Highway,Serious,Bus,Clear,6
+A0015,2023-03-03,23:36,Islamabad,Urban Road,Serious,Truck,Clear,2
+A0016,2023-04-11,14:13,Islamabad,Highway,Serious,Truck,Rainy,6
+A0017,2023-10-10,08:14,Multan,Urban Road,Minor,Car,Clear,7
+A0018,2023-08-19,16:51,Peshawar,Urban Road,Serious,Car,Clear,4
+A0019,2023-05-23,10:28,Rawalpindi,Highway,Minor,Truck,Rainy,3
+A0020,2023-03-07,09:44,Quetta,Highway,Minor,Bike,Rainy,3
+A0021,2023-12-06,10:57,Multan,Urban Road,Minor,Bus,Clear,0
+A0022,2023-10-10,19:12,Lahore,Highway,Minor,Bike,Clear,5
+A0023,2023-06-14,00:50,Karachi,Urban Road,Minor,Truck,Clear,7
+A0024,2023-08-21,19:48,Quetta,Highway,Minor,Bike,Clear,1
+A0025,2023-04-23,04:48,Faisalabad,Highway,Minor,Bus,Clear,5
+A0026,2023-12-09,04:31,Lahore,Highway,Minor,Bus,Clear,1
+A0027,2023-06-09,05:31,Multan,Urban Road,Minor,Bike,Clear,6
+A0028,2023-10-21,23:04,Rawalpindi,Urban Road,Serious,Truck,Rainy,7
+A0029,2023-04-07,08:59,Islamabad,Urban Road,Serious,Truck,Clear,2
+A0030,2023-12-12,02:18,Rawalpindi,Urban Road,Minor,Car,Rainy,7
+A0031,2023-02-08,17:39,Lahore,Highway,Minor,Car,Clear,6
+A0032,2023-10-25,02:06,Rawalpindi,Urban Road,Serious,Car,Clear,0
+A0033,2023-01-02,00:47,Quetta,Urban Road,Serious,Bike,Rainy,0
+A0034,2023-08-21,02:18,Faisalabad,Urban Road,Fatal,Bike,Clear,0
+A0035,2023-04-26,10:48,Faisalabad,Urban Road,Fatal,Bike,Clear,7
+A0036,2023-04-09,17:45,Karachi,Urban Road,Serious,Bike,Fog,3
+A0037,2023-06-10,03:32,Quetta,Highway,Minor,Bike,Rainy,6
+A0038,2023-07-14,16:32,Faisalabad,Urban Road,Minor,Bus,Clear,5
+A0039,2023-06-07,05:37,Peshawar,Highway,Fatal,Truck,Clear,4
+A0040,2023-10-13,00:27,Multan,Urban Road,Fatal,Bike,Rainy,2
+A0041,2023-01-04,02:48,Faisalabad,Highway,Fatal,Bus,Fog,4
+A0042,2023-01-06,02:59,Lahore,Highway,Fatal,Car,Clear,6
+A0043,2023-04-09,00:51,Multan,Highway,Minor,Truck,Clear,2
+A0044,2023-05-08,17:24,Karachi,Highway,Serious,Truck,Clear,7
+A0045,2023-04-24,14:21,Multan,Urban Road,Minor,Bus,Fog,0
+A0046,2023-04-14,00:08,Islamabad,Urban Road,Minor,Car,Clear,1
+A0047,2023-12-21,17:24,Faisalabad,Highway,Minor,Truck,Clear,4
+A0048,2023-01-20,00:07,Faisalabad,Urban Road,Serious,Bike,Fog,6
+A0049,2023-04-02,01:01,Faisalabad,Highway,Serious,Truck,Clear,6
+A0050,2023-07-09,21:57,Karachi,Urban Road,Minor,Bus,Rainy,5
+A0051,2023-04-11,00:07,Peshawar,Urban Road,Minor,Car,Clear,5
+A0052,2023-12-31,19:29,Multan,Highway,Serious,Bike,Clear,1
+A0053,2023-05-04,09:29,Islamabad,Highway,Minor,Truck,Clear,6
+A0054,2023-12-12,04:25,Peshawar,Urban Road,Serious,Car,Rainy,0
+A0055,2023-02-27,00:46,Karachi,Urban Road,Minor,Bike,Clear,4
+A0056,2023-09-29,06:04,Quetta,Highway,Minor,Bike,Clear,2
+A0057,2023-03-27,13:27,Peshawar,Highway,Minor,Bus,Fog,4
+A0058,2023-07-23,15:25,Karachi,Urban Road,Serious,Bike,Clear,5
+A0059,2023-12-23,22:57,Karachi,Urban Road,Serious,Bus,Clear,1
+A0060,2023-09-07,18:57,Faisalabad,Highway,Minor,Car,Clear,7
+A0061,2023-12-02,22:01,Lahore,Urban Road,Serious,Truck,Rainy,3
+A0062,2023-06-27,02:59,Lahore,Highway,Serious,Truck,Fog,2
+A0063,2023-03-06,00:39,Karachi,Highway,Minor,Car,Clear,5
+A0064,2023-09-10,18:49,Islamabad,Highway,Minor,Bike,Clear,1
+A0065,2023-03-31,01:50,Lahore,Highway,Minor,Car,Clear,2
+A0066,2023-08-05,20:56,Rawalpindi,Urban Road,Minor,Bike,Rainy,0
+A0067,2023-04-09,15:35,Karachi,Highway,Serious,Bike,Fog,7
+A0068,2023-02-06,11:48,Multan,Highway,Serious,Truck,Clear,0
+A0069,2023-03-03,19:47,Lahore,Urban Road,Minor,Truck,Clear,3
+A0070,2023-08-21,18:11,Lahore,Highway,Fatal,Truck,Fog,2
+A0071,2023-05-24,20:04,Islamabad,Urban Road,Minor,Truck,Clear,4
+A0072,2023-05-31,15:56,Multan,Highway,Fatal,Bus,Clear,6
+A0073,2023-05-02,04:34,Multan,Highway,Minor,Bus,Fog,0
+A0074,2023-03-15,11:16,Peshawar,Urban Road,Minor,Car,Clear,0
+A0075,2023-10-10,01:04,Peshawar,Highway,Minor,Bike,Clear,0
+A0076,2023-12-08,19:16,Multan,Highway,Fatal,Bike,Clear,3
+A0077,2023-10-02,11:53,Multan,Highway,Minor,Truck,Clear,2
+A0078,2023-06-22,12:49,Rawalpindi,Urban Road,Minor,Bike,Rainy,6
+A0079,2023-12-27,06:00,Islamabad,Highway,Minor,Car,Clear,0
+A0080,2023-11-08,00:37,Peshawar,Urban Road,Serious,Car,Fog,4
+A0081,2023-10-30,20:15,Quetta,Highway,Fatal,Car,Clear,2
+A0082,2023-01-20,17:46,Lahore,Highway,Serious,Truck,Fog,5
+A0083,2023-09-16,15:22,Lahore,Highway,Minor,Bike,Clear,5
+A0084,2023-06-05,20:07,Karachi,Urban Road,Serious,Bike,Clear,1
+A0085,2023-01-28,04:40,Rawalpindi,Urban Road,Minor,Truck,Clear,0
+A0086,2023-07-31,12:27,Faisalabad,Highway,Minor,Truck,Rainy,1
+A0087,2023-09-13,04:46,Lahore,Urban Road,Minor,Bus,Fog,4
+A0088,2023-01-05,22:55,Lahore,Urban Road,Serious,Bike,Fog,2
+A0089,2023-12-07,21:58,Islamabad,Highway,Serious,Bus,Clear,6
+A0090,2023-11-07,05:27,Lahore,Highway,Fatal,Bus,Fog,6
+A0091,2023-02-22,04:09,Karachi,Highway,Minor,Bus,Clear,0
+A0092,2023-02-20,12:12,Rawalpindi,Urban Road,Fatal,Bike,Rainy,3
+A0093,2023-04-05,07:38,Karachi,Urban Road,Minor,Bus,Rainy,1
+A0094,2023-09-25,00:53,Rawalpindi,Highway,Minor,Truck,Clear,7
+A0095,2023-09-12,14:22,Multan,Highway,Serious,Bus,Rainy,6
+A0096,2023-07-11,01:37,Karachi,Urban Road,Serious,Truck,Clear,6
+A0097,2023-11-04,05:32,Faisalabad,Highway,Minor,Truck,Clear,0
+A0098,2023-05-13,03:09,Faisalabad,Highway,Minor,Bike,Clear,4
+A0099,2023-02-03,05:52,Karachi,Highway,Minor,Truck,Clear,2
+A0100,2023-04-21,22:54,Faisalabad,Highway,Minor,Bike,Rainy,7
+A0101,2023-07-03,02:31,Islamabad,Highway,Serious,Bus,Rainy,2
+A0102,2023-10-04,04:17,Rawalpindi,Urban Road,Minor,Car,Clear,4
+A0103,2023-08-21,11:25,Quetta,Urban Road,Minor,Bus,Rainy,0
+A0104,2023-10-09,14:56,Quetta,Highway,Minor,Truck,Fog,4
+A0105,2023-12-03,03:00,Faisalabad,Highway,Serious,Bike,Clear,6
+A0106,2023-02-25,21:13,Karachi,Urban Road,Minor,Bike,Rainy,1
+A0107,2023-01-14,23:50,Multan,Highway,Fatal,Bus,Rainy,3
+A0108,2023-10-01,05:34,Islamabad,Highway,Minor,Truck,Clear,1
+A0109,2023-02-08,16:38,Quetta,Urban Road,Minor,Car,Fog,3
+A0110,2023-01-25,03:09,Islamabad,Highway,Minor,Truck,Clear,5
+A0111,2023-02-03,14:07,Faisalabad,Highway,Serious,Bus,Clear,5
+A0112,2023-06-29,01:58,Faisalabad,Highway,Fatal,Car,Fog,4
+A0113,2023-05-30,20:05,Quetta,Highway,Minor,Bus,Clear,5
+A0114,2023-12-16,23:54,Lahore,Highway,Minor,Truck,Clear,3
+A0115,2023-08-11,05:01,Rawalpindi,Urban Road,Fatal,Truck,Rainy,0
+A0116,2023-04-04,23:37,Islamabad,Urban Road,Fatal,Truck,Clear,1
+A0117,2023-06-22,11:04,Quetta,Urban Road,Minor,Truck,Clear,3
+A0118,2023-04-23,11:46,Lahore,Urban Road,Serious,Bus,Clear,2
+A0119,2023-12-22,12:42,Islamabad,Highway,Minor,Bike,Clear,6
+A0120,2023-05-18,11:01,Peshawar,Urban Road,Serious,Car,Clear,0
+A0121,2023-09-30,08:10,Multan,Urban Road,Serious,Truck,Clear,0
+A0122,2023-03-10,11:49,Quetta,Highway,Serious,Car,Clear,2
+A0123,2023-02-04,00:39,Faisalabad,Urban Road,Minor,Car,Clear,0
+A0124,2023-08-17,13:59,Quetta,Highway,Minor,Car,Clear,5
+A0125,2023-03-03,03:24,Peshawar,Urban Road,Minor,Bike,Clear,7
+A0126,2023-01-14,18:37,Lahore,Highway,Minor,Car,Clear,0
+A0127,2023-11-05,07:39,Islamabad,Highway,Minor,Bus,Clear,2
+A0128,2023-02-11,19:14,Multan,Highway,Minor,Bus,Fog,3
+A0129,2023-06-06,05:56,Lahore,Highway,Minor,Truck,Clear,3
+A0130,2023-03-27,01:09,Peshawar,Highway,Serious,Bus,Rainy,6
+A0131,2023-10-30,03:44,Faisalabad,Urban Road,Minor,Car,Clear,4
+A0132,2023-02-16,03:11,Peshawar,Urban Road,Minor,Truck,Rainy,3
+A0133,2023-10-09,10:26,Peshawar,Urban Road,Minor,Bus,Clear,5
+A0134,2023-07-19,22:46,Karachi,Urban Road,Serious,Bus,Clear,5
+A0135,2023-07-29,00:46,Faisalabad,Urban Road,Serious,Bike,Clear,3
+A0136,2023-05-13,23:36,Faisalabad,Highway,Minor,Bike,Clear,0
+A0137,2023-02-20,13:39,Lahore,Urban Road,Fatal,Car,Clear,4
+A0138,2023-12-12,13:35,Quetta,Highway,Fatal,Truck,Clear,2
+A0139,2023-05-29,14:08,Peshawar,Highway,Minor,Car,Clear,0
+A0140,2023-10-18,19:24,Karachi,Highway,Fatal,Truck,Clear,1
+A0141,2023-12-13,16:42,Islamabad,Urban Road,Fatal,Bus,Clear,6
+A0142,2023-06-29,05:52,Faisalabad,Highway,Minor,Truck,Clear,1
+A0143,2023-06-05,17:20,Lahore,Highway,Fatal,Car,Clear,5
+A0144,2023-12-08,07:48,Multan,Highway,Minor,Bus,Rainy,2
+A0145,2023-07-30,16:44,Peshawar,Urban Road,Serious,Truck,Clear,5
+A0146,2023-06-24,17:01,Quetta,Urban Road,Minor,Bus,Clear,6
+A0147,2023-05-12,00:07,Peshawar,Highway,Fatal,Bike,Clear,2
+A0148,2023-06-11,00:22,Multan,Urban Road,Serious,Truck,Rainy,0
+A0149,2023-11-09,22:02,Faisalabad,Highway,Serious,Car,Clear,0
+A0150,2023-08-27,04:02,Islamabad,Highway,Serious,Bike,Clear,7
+A0151,2023-03-29,13:31,Faisalabad,Urban Road,Serious,Bike,Fog,5
+A0152,2023-08-11,22:47,Karachi,Highway,Serious,Car,Clear,2
+A0153,2023-04-22,18:35,Peshawar,Urban Road,Serious,Car,Rainy,3
+A0154,2023-01-11,09:01,Islamabad,Highway,Minor,Bike,Rainy,5
+A0155,2023-09-13,08:33,Peshawar,Urban Road,Minor,Bus,Rainy,7
+A0156,2023-03-22,09:29,Faisalabad,Highway,Fatal,Bike,Clear,1
+A0157,2023-04-25,16:13,Lahore,Urban Road,Serious,Car,Clear,5
+A0158,2023-10-05,10:45,Rawalpindi,Urban Road,Minor,Car,Rainy,4
+A0159,2023-03-16,05:17,Faisalabad,Highway,Serious,Car,Clear,0
+A0160,2023-06-14,05:57,Rawalpindi,Highway,Minor,Bus,Clear,0
+A0161,2023-10-14,05:26,Faisalabad,Urban Road,Serious,Car,Clear,1
+A0162,2023-06-22,16:25,Peshawar,Urban Road,Serious,Bus,Clear,3
+A0163,2023-11-06,10:00,Islamabad,Highway,Serious,Bus,Clear,2
+A0164,2023-10-23,10:35,Lahore,Highway,Minor,Truck,Fog,6
+A0165,2023-04-21,23:53,Quetta,Highway,Minor,Bus,Clear,3
+A0166,2023-08-15,19:42,Lahore,Urban Road,Fatal,Truck,Clear,1
+A0167,2023-03-14,08:39,Lahore,Highway,Minor,Truck,Clear,0
+A0168,2023-02-08,02:02,Karachi,Highway,Minor,Truck,Clear,1
+A0169,2023-01-12,18:36,Rawalpindi,Highway,Fatal,Car,Rainy,0
+A0170,2023-11-07,16:46,Rawalpindi,Urban Road,Fatal,Truck,Rainy,4
+A0171,2023-03-22,22:36,Quetta,Urban Road,Serious,Car,Fog,3
+A0172,2023-05-23,08:44,Karachi,Highway,Minor,Bike,Fog,6
+A0173,2023-10-09,20:21,Karachi,Highway,Minor,Car,Rainy,2
+A0174,2023-06-25,07:49,Islamabad,Highway,Serious,Truck,Fog,6
+A0175,2023-04-13,16:13,Multan,Urban Road,Minor,Bike,Clear,2
+A0176,2023-10-20,10:39,Karachi,Highway,Minor,Truck,Clear,0
+A0177,2023-01-04,21:24,Peshawar,Urban Road,Minor,Car,Rainy,5
+A0178,2023-11-07,02:41,Karachi,Urban Road,Minor,Car,Clear,7
+A0179,2023-04-06,02:58,Multan,Urban Road,Minor,Bus,Clear,5
+A0180,2023-09-02,11:56,Faisalabad,Urban Road,Minor,Car,Rainy,0
+A0181,2023-12-25,19:04,Lahore,Urban Road,Minor,Car,Clear,5
+A0182,2023-11-20,17:36,Lahore,Urban Road,Minor,Bus,Clear,6
+A0183,2023-11-01,23:03,Rawalpindi,Highway,Fatal,Car,Clear,3
+A0184,2023-07-17,06:55,Multan,Urban Road,Serious,Bus,Rainy,0
+A0185,2023-07-18,19:03,Islamabad,Urban Road,Fatal,Truck,Clear,2
+A0186,2023-11-26,10:33,Lahore,Urban Road,Minor,Bus,Rainy,5
+A0187,2023-01-05,04:53,Multan,Highway,Fatal,Truck,Clear,0
+A0188,2023-03-02,09:34,Karachi,Urban Road,Serious,Bike,Fog,2
+A0189,2023-09-26,23:46,Lahore,Highway,Fatal,Car,Clear,0
+A0190,2023-11-19,08:02,Lahore,Urban Road,Fatal,Car,Clear,0
+A0191,2023-09-18,10:58,Karachi,Urban Road,Minor,Bus,Clear,4
+A0192,2023-06-25,17:05,Peshawar,Urban Road,Minor,Bike,Clear,0
+A0193,2023-04-24,07:44,Faisalabad,Urban Road,Serious,Bus,Clear,7
+A0194,2023-12-20,07:26,Peshawar,Highway,Serious,Bike,Rainy,7
+A0195,2023-04-02,00:58,Islamabad,Urban Road,Serious,Truck,Clear,4
+A0196,2023-06-19,03:26,Quetta,Urban Road,Minor,Truck,Fog,0
+A0197,2023-01-31,22:41,Karachi,Urban Road,Minor,Bus,Fog,1
+A0198,2023-12-22,01:13,Peshawar,Highway,Minor,Bus,Clear,5
+A0199,2023-06-04,16:40,Lahore,Urban Road,Minor,Bike,Clear,4
+A0200,2023-06-12,15:05,Islamabad,Urban Road,Minor,Car,Fog,6
+A0201,2023-03-01,14:29,Peshawar,Highway,Serious,Bike,Rainy,1
+A0202,2023-11-20,16:11,Quetta,Highway,Serious,Car,Clear,7
+A0203,2023-07-29,17:13,Faisalabad,Highway,Fatal,Bike,Rainy,3
+A0204,2023-01-07,10:32,Quetta,Highway,Minor,Truck,Clear,6
+A0205,2023-01-26,01:45,Karachi,Highway,Fatal,Truck,Clear,6
+A0206,2023-09-28,22:28,Peshawar,Highway,Minor,Bus,Rainy,3
+A0207,2023-01-22,10:26,Islamabad,Highway,Fatal,Bike,Clear,4
+A0208,2023-10-30,15:36,Islamabad,Urban Road,Minor,Car,Clear,2
+A0209,2023-09-14,05:14,Karachi,Highway,Minor,Car,Rainy,3
+A0210,2023-10-01,14:43,Faisalabad,Highway,Fatal,Bus,Clear,4
+A0211,2023-11-05,07:14,Islamabad,Urban Road,Minor,Truck,Rainy,7
+A0212,2023-06-30,23:59,Karachi,Highway,Minor,Truck,Clear,5
+A0213,2023-09-30,11:19,Rawalpindi,Highway,Minor,Car,Clear,5
+A0214,2023-04-27,01:23,Faisalabad,Highway,Fatal,Car,Clear,1
+A0215,2023-11-16,17:45,Multan,Highway,Serious,Truck,Rainy,0
+A0216,2023-04-12,08:07,Islamabad,Urban Road,Serious,Car,Clear,0
+A0217,2023-02-15,14:15,Quetta,Urban Road,Minor,Car,Clear,7
+A0218,2023-08-30,00:01,Lahore,Highway,Fatal,Bus,Clear,3
+A0219,2023-06-03,21:38,Karachi,Urban Road,Serious,Bus,Rainy,6
+A0220,2023-04-16,22:43,Lahore,Urban Road,Serious,Truck,Fog,0
+A0221,2023-09-19,08:38,Multan,Urban Road,Minor,Bike,Fog,1
+A0222,2023-12-14,19:46,Islamabad,Highway,Minor,Bike,Clear,5
+A0223,2023-11-10,21:25,Multan,Highway,Minor,Bike,Rainy,2
+A0224,2023-01-12,22:11,Peshawar,Highway,Fatal,Bus,Clear,5
+A0225,2023-12-22,12:07,Peshawar,Highway,Minor,Bike,Clear,1
+A0226,2023-07-30,21:36,Faisalabad,Urban Road,Fatal,Truck,Clear,2
+A0227,2023-02-04,21:14,Lahore,Highway,Minor,Bus,Fog,1
+A0228,2023-01-24,19:36,Rawalpindi,Urban Road,Minor,Bike,Clear,1
+A0229,2023-06-26,18:31,Lahore,Urban Road,Minor,Bus,Clear,1
+A0230,2023-12-01,01:35,Quetta,Highway,Minor,Truck,Clear,4
+A0231,2023-09-25,02:44,Karachi,Urban Road,Serious,Car,Clear,7
+A0232,2023-04-10,15:29,Multan,Urban Road,Minor,Bus,Clear,4
+A0233,2023-11-21,05:44,Lahore,Urban Road,Minor,Car,Clear,7
+A0234,2023-08-19,19:01,Multan,Urban Road,Serious,Car,Fog,1
+A0235,2023-06-12,04:04,Multan,Highway,Serious,Bike,Clear,6
+A0236,2023-10-30,10:09,Islamabad,Urban Road,Minor,Bus,Clear,3
+A0237,2023-12-16,08:00,Peshawar,Urban Road,Serious,Bike,Rainy,7
+A0238,2023-10-11,10:36,Multan,Highway,Minor,Car,Rainy,3
+A0239,2023-11-08,14:14,Quetta,Urban Road,Minor,Bike,Clear,1
+A0240,2023-10-20,19:25,Peshawar,Highway,Minor,Bus,Clear,2
+A0241,2023-11-21,00:48,Islamabad,Urban Road,Serious,Bike,Fog,7
+A0242,2023-09-08,10:33,Lahore,Urban Road,Fatal,Truck,Clear,6
+A0243,2023-06-27,22:43,Quetta,Urban Road,Minor,Bus,Clear,7
+A0244,2023-08-22,22:07,Karachi,Highway,Minor,Bike,Clear,5
+A0245,2023-01-05,14:21,Multan,Urban Road,Serious,Truck,Fog,1
+A0246,2023-04-24,17:16,Karachi,Urban Road,Fatal,Car,Clear,7
+A0247,2023-12-11,13:03,Lahore,Highway,Minor,Bike,Rainy,7
+A0248,2023-03-10,08:25,Quetta,Urban Road,Minor,Bike,Clear,0
+A0249,2023-06-10,08:24,Faisalabad,Highway,Serious,Car,Clear,2
+A0250,2023-11-20,01:37,Quetta,Urban Road,Serious,Bus,Fog,4
